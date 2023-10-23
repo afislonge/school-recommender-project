@@ -1,2 +1,2 @@
 # school-recommender-project
-Django base school recommender system
+Django based school recommender system
